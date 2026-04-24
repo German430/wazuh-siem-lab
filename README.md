@@ -1,4 +1,4 @@
-[wazuh-siem-lab-README.md](https://github.com/user-attachments/files/27068132/wazuh-siem-lab-README.md)
+[wazuh-siem-lab-README.md](https://github.com/user-attachments/files/27068171/wazuh-siem-lab-README.md)
 # Wazuh SIEM Home Lab — Threat Detection & Attack Simulation
 
 **Author:** German Abarca  
